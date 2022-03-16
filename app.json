@@ -1,13 +1,13 @@
   
 {
     "name": "Stripe Key Generator",
-    "description": "A Program that generates and checks Stripe keys 24x7. This was made only for Educational Purposes, I'm not responsible for the damages cause by you",
+    "description": " the damages cause by you",
     "keywords": [
         "telegram",
         "stripe",
         "checker"
     ],
-    "repository": "https://github.com/iam-NVN/stripekey-generator",
+    "repository": "https://github.com/Hkbots69/Okayislove",
     "env": {
         "FORWARD_ID": {
             "description": "Your UserID/Chat ID to forward live sk keys to",
